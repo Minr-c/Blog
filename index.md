@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 寂寞先生
-tagline: 这，是一个寂寞的世界……
+title: 聊摘志议
+tagline: 明德格物 利己达人 聊摘志议 取舍留余
 ---
 {% include JB/setup %}
 
